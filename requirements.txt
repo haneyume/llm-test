@@ -4,7 +4,12 @@ openai
 langchain
 google-search-results
 
+numpy
 pandas
 
 streamlit
 chainlit
+# langflow
+
+fastapi
+uvicorn[standard]

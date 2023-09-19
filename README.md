@@ -9,6 +9,12 @@ source .venv/bin/activate
 pip install --upgrade -r requirements.txt
 ```
 
+# langflow
+
+```sh
+langflow
+```
+
 # streamlit
 
 ```sh
@@ -19,7 +25,13 @@ streamlit run app.py
 
 ```sh
 chainlit run app.py -w
-chainlit run mrkl.py -w
+chainlit run chainlit_mrkl.py -w
+```
+
+# fastapi
+
+```sh
+uvicorn fastapi_main:app --reload
 ```
 
 # other
