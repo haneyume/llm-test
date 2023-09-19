@@ -34,6 +34,12 @@ chainlit run chainlit_mrkl.py -w
 uvicorn fastapi_main:app --reload
 ```
 
+# open-interpreter
+
+```sh
+interpreter
+```
+
 # other
 
 - https://openinterpreter.com/

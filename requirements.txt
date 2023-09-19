@@ -9,7 +9,8 @@ pandas
 
 streamlit
 chainlit
-# langflow
 
 fastapi
 uvicorn[standard]
+
+open-interpreter
