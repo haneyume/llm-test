@@ -1,0 +1,10 @@
+python-dotenv
+
+openai
+langchain
+google-search-results
+
+pandas
+
+streamlit
+chainlit
